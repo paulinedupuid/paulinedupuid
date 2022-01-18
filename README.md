@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏼
 
 My name is Pauline, I am a fullstack developer
 
@@ -6,4 +6,3 @@ My name is Pauline, I am a fullstack developer
 - 🖱 Interested in Ruby, Ruby on Rails, Javascript, HTML, CSS
 - 💻 I’m looking to improve my skills in dev
 - 📧 How to reach me: pauline.dupuid@gmail.com
--->
